@@ -1,1 +1,1 @@
-pythonw "C:\Users\ADMIN\Documents\py apps\xbox_connect_launch_steam_big.py"
+pythonw "C:\Filepath_to_xbox_connect_launch_steam_big.py" #add your own filepath
