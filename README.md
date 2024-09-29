@@ -26,15 +26,14 @@ Create a batch file to run the Python script on startup:
 Open Notepad and type the following:
 
 ```
-batch
-Copy code
 @echo off
 pythonw C:\path\to\your\script\xbox_controller_auto_launcher.py
+```
 Replace C:\path\to\your\script\xbox_controller_auto_launcher.py with the actual path to the Python script on your computer.
 Save the file with a .bat extension, such as launch_steam_on_controller.bat.
 Move the .bat File to the Startup Folder:
 
-```
+
 Press Win + R and type shell:startup, then press Enter. This opens the Windows Startup folder.
 Move the .bat file into this folder. This ensures the script runs automatically when your PC boots.
 Test the Script:
